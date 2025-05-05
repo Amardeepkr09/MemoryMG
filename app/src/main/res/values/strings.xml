@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemoryMG</string>
+    <string name="score_0">Score: 0</string>
+    <string name="time_0s">Time: 0s</string>
+    <string name="restart">Restart</string>
+    <string name="todo">TODO</string>
+</resources>
